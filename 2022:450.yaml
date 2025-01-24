@@ -1188,7 +1188,8 @@ elements:
         Act (2013:611).
     section: "27"
     paragraph: "4"
-  - type: paragraph_text
+  - type: section_heading
+    slug: section-27a
     text:
       sv: 27 a §
       en: Section 27a
